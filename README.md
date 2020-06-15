@@ -1,3 +1,6 @@
+Copyrights - All credits to O'Reilly media
+Copied from the course - Spring Integration
+
 ## Example files for the title:  
   
 # Understanding Spring Integration, by Kevin Bowersox
